@@ -14,6 +14,8 @@ Công cụ và nền tảng:
 Weka: Một bộ công cụ khai thác dữ liệu mã nguồn mở với giao diện đồ họa và nhiều thuật toán phân cụm.
 KNIME: Một nền tảng phân tích dữ liệu trực quan cho phép xây dựng quy trình làm việc bao gồm các thuật toán phân cụm.
 Spark MLlib: Cung cấp các thuật toán phân cụm có khả năng mở rộng cho dữ liệu lớn.
+
+
 2. Giảm số chiều với SVD (Singular Value Decomposition):
 
 Ngôn ngữ lập trình:
@@ -26,6 +28,8 @@ SciPy: Cũng có các hàm SVD hiệu quả (scipy.linalg.svd).
 Thư viện R:
 base: Cung cấp hàm svd().
 irlba: Cung cấp các thuật toán SVD hiệu quả cho ma trận lớn.
+
+
 3. Khuyến nghị sản phẩm với Collaborative Filtering:
 
 Ngôn ngữ lập trình:
@@ -38,6 +42,9 @@ LightFM: Một framework khuyến nghị hybrid cho cả implicit và explicit f
 Công cụ và nền tảng:
 Apache Mahout: Một framework scalable cho các thuật toán học máy, bao gồm cả collaborative filtering.
 Spark MLlib: Cung cấp các thuật toán collaborative filtering có khả năng mở rộng.
+
+
+
 4. Dự đoán giá chứng khoán:
 
 Ngôn ngữ lập trình:
@@ -53,6 +60,9 @@ TensorFlow và Keras: Cho việc xây dựng các mô hình mạng nơ-ron sâu 
 Nguồn dữ liệu:
 Các API tài chính (ví dụ: Alpha Vantage, Yahoo Finance API).
 Dữ liệu lịch sử từ các sàn giao dịch chứng khoán.
+
+
+
 5. Phân loại đa lớp với PySpark:
 
 Công nghệ cốt lõi:
